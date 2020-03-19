@@ -22,7 +22,7 @@ Currently I live in Pilani and study at [BITS Pilani](https://www.bits-pilani.ac
 
 ### Resume
 
-[Link to my resume](/resume.pdf)
+[Link to my resume](/Resume.pdf)
 
 ### Reach me
 
