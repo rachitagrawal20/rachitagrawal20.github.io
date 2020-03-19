@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/rachitsd/rachitsd.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Currently I live in Pilani and study at [BITS Pilani](https://www.bits-pilani.ac.in/). I am persuing M.Sc. Chemistry and B.E. Computer Science and will graduate in 2021. I have worked in [NESAC (ISRO)](https://nesac.gov.in/) during the summers of 2018. I will be doing my summer 2020 2-months(mid-May to mid-July) internship at [TESCO bengaluru](http://www.tescobengaluru.com/). I am looking for internship opportunites for the period of 3.5 months(mid-August to December).
+---
 
-hellor you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Skillset
 
-### Markdown
+'C', 'C++', 'Java', 'Python', 'R', 'Git'
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Interests
 
-```markdown
-Syntax highlighted code block
+**Software Development** 
+- Working in collaboration with AI/ML lab at BITS Pilani and MapMyIndia to develop an API which aims to give the _Turn by Turn route recommendation using AI algorithms_.
+- Developed an Android Application _Safemaps_ which provides the safest route to the destination.
+- Developing a Compiler in C for a hypothetical language as part of the course Project.
 
-# Header 1
-## Header 2
-### Header 3
+**Machine Learning**
+- Implemented various Dimensionality reduction techniques and analysed them on some common classification problems.
+- Implemented 'ResNet' model for training the image dataset of 60000 images and built the object localizing bounding boxes.
 
-- Bulleted
-- List
+**Information Retrieval**
+- Implemented IBM model-1 alongside some innovations for Statistical Machine Translation of English language sentences to Dutch language.
 
-1. Numbered
-2. List
+### Resume
 
-**Bold** and _Italic_ and `Code` text
+[link to my resume](/resume.pdf)
 
-[Link](url) and ![Image](src)
-```
+### Reach me
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rachitsd/rachitsd.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Mail to](mailto:rachitagr15@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rachit-agrawal-927777170/)
