@@ -1,6 +1,6 @@
 ## About me
 
-Currently I live in Pilani and study at [BITS Pilani](https://www.bits-pilani.ac.in/). I am persuing M.Sc. Chemistry and B.E. Computer Science and will graduate in 2021. I have worked in [NESAC (ISRO)](https://nesac.gov.in/) during the summers of 2018. I will be doing my summer 2020 2-months(mid-May to mid-July) internship at [TESCO bengaluru](http://www.tescobengaluru.com/). I am looking for internship opportunites for the period of 3.5 months(mid-August to December).
+Currently I live in Pilani and study at [BITS Pilani](https://www.bits-pilani.ac.in/). I am pursuing M.Sc. Chemistry and B.E. Computer Science and will graduate in 2021. I have worked in [NESAC (ISRO)](https://nesac.gov.in/) during the summers of 2018. I will be doing my summer 2020 2-months(mid-May to mid-July) internship at [TESCO bengaluru](http://www.tescobengaluru.com/). I am looking for internship opportunites for the period of 3.5 months(mid-August to December).
 
 ### Skillset
 
@@ -22,7 +22,7 @@ Currently I live in Pilani and study at [BITS Pilani](https://www.bits-pilani.ac
 
 ### Resume
 
-[Link to my resume](/Resume.pdf)
+[Link to my resume](/Intern resume.pdf)
 
 ### Reach me
 
